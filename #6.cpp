@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int fact(int);
 int main() {
 	int arr[100], n, i;
 	cin >> n;
