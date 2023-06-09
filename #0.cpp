@@ -7,6 +7,7 @@ int main() {
 	cout << "Hello" << endl;
 	hashs();
 	cout << "Byebye" << endl;
+	hashs();
 	return 0;
 }
 void hashs() {
